@@ -8,3 +8,4 @@
 3. GCM mode. https://www.pycryptodome.org/src/cipher/modern#gcm-mode.
 2. Crypto.Hash.TupleHash128. https://www.pycryptodome.org/src/hash/tuplehash128.
 2. Crypto.PublicKey.RSA. https://www.pycryptodome.org/src/public_key/rsa.
+2. Crypto.Cipher.PKCS1_OAEP. https://www.pycryptodome.org/src/cipher/oaep.
