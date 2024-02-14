@@ -10,3 +10,4 @@
 2. Crypto.PublicKey.RSA. https://www.pycryptodome.org/src/public_key/rsa.
 2. Crypto.Cipher.PKCS1_OAEP. https://www.pycryptodome.org/src/cipher/oaep.
 2. PKCS#1 PSS (RSA). https://www.pycryptodome.org/src/signature/pkcs1_pss.
+2. CBC Mode. https://www.pycryptodome.org/src/cipher/classic#cbc-mode.
